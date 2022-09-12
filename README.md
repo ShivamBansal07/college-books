@@ -1,6 +1,6 @@
 # College Books
 
-Books recommended for college by SRM for semester 1. Downloaded from https://z-lib.org (requires a mask or vpn). For requesting more books added here, open an issue ☆☆☆
+Books recommended for college by SRM for semester 1. Downloaded from https://z-lib.org . For requesting more books added here, open an issue ☆☆☆
 
 ### Math
 
