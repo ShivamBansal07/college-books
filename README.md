@@ -19,4 +19,7 @@ Books recommended for college by SRM for semester 1. Downloaded from https://z-l
 
 ### Chemistry
 
-Nothing yet
+-   [Atkins’ Physical Chemistry (Peter Atkins, Julio de Paula, James Keeler)](<https://github.com/distilledx/college-books/blob/main/Chemistry/Atkins%E2%80%99%20Physical%20Chemistry%20(Peter%20Atkins%2C%20Julio%20de%20Paula%2C%20James%20Keeler).pdf>)
+-   [Materials Science and Engineering An Introduction, Eighth Edition (William D. Callister Jr., David G. Rethwisch)](<https://github.com/distilledx/college-books/blob/main/Chemistry/Materials%20Science%20and%20Engineering%20An%20Introduction%2C%20Eighth%20Edition%20(William%20D.%20Callister%20Jr.%2C%20David%20G.%20Rethwisch).pdf>)
+-   [Organic chemistry structure and function (Neil E. Schore K. Peter C. Vollhardt)](<https://github.com/distilledx/college-books/blob/main/Chemistry/Organic%20chemistry%20structure%20and%20function%20(Neil%20E.%20Schore%20K.%20Peter%20C.%20Vollhardt).pdf>)
+-   [University chemistry (Mahan, Bruce H)](<https://github.com/distilledx/college-books/blob/main/Chemistry/University%20chemistry%20(Mahan%2C%20Bruce%20H).pdf>)
