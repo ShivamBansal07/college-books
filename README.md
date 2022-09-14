@@ -25,4 +25,4 @@ For requesting more books added here, open an issue ☆☆☆
 -   [Materials Science and Engineering An Introduction, Eighth Edition (William D. Callister Jr., David G. Rethwisch)](<https://github.com/distilledx/college-books/blob/main/Chemistry/Materials%20Science%20and%20Engineering%20An%20Introduction%2C%20Eighth%20Edition%20(William%20D.%20Callister%20Jr.%2C%20David%20G.%20Rethwisch).pdf>)
 -   [Organic chemistry structure and function (Neil E. Schore K. Peter C. Vollhardt)](<https://github.com/distilledx/college-books/blob/main/Chemistry/Organic%20chemistry%20structure%20and%20function%20(Neil%20E.%20Schore%20K.%20Peter%20C.%20Vollhardt).pdf>)
 -   [University chemistry (Mahan, Bruce H)](<https://github.com/distilledx/college-books/blob/main/Chemistry/University%20chemistry%20(Mahan%2C%20Bruce%20H).pdf>)
--   [Concise Inorganic Chemistry (J. D. Lee)]()
+-   [Concise Inorganic Chemistry (J. D. Lee)](<https://github.com/distilledx/college-books/blob/main/Chemistry/Concise%20Inorganic%20Chemistry%20(J.%20D.%20Lee).pdf>)
